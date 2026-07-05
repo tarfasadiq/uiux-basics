@@ -80,35 +80,6 @@ Step 1 → Step 2 → Step 3 → Step 4
 - Unmet needs you can fill
 - Better ways to serve them
 
-### Example Journey Map
-
-```
-JOURNEY: "New User Signup"
-PERSONA: Alex (Tech-Savvy Professional)
-GOAL: Set up account and start using app
-
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ PHASE      │ Awareness  │ Interest   │ Decision   │ Onboarding │ Advocate  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ ACTIONS    │ Googles    │ Reads      │ Signs up   │ Completes  │ Invites   │
-│            │ solution   │ reviews    │ creates PW │ profile    │ friends   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ TOUCHPOINTS│ Search     │ Website    │ Email      │ App        │ App       │
-│            │ Result     │ Reviews    │ Confirm    │ Dashboard  │ Sharing   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ EMOTIONS   │ 😐😊       │ 😊🤔       │ 😊😄       │ 😄😊       │ 😄😍     │
-│ (Rating)   │ 6/10       │ 7/10       │ 8/10       │ 7/10       │ 9/10      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ PAIN POINTS│ Too many   │ Unclear    │ Slow email │ Too many   │ ???       │
-│            │ options    │ features   │ confirm    │ questions  │           │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ OPPORTUNITY│ Show top   │ Better     │ Instant    │ Smart      │ Easy      │
-│            │ features   │ feature    │ confirm    │ defaults   │ sharing   │
-│            │ first      │ explanations│ or SMS     │ based on   │ tools     │
-│            │            │            │            │ persona    │           │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
 ## Creating Journey Maps
 
 ### Step 1: Choose a Scenario
